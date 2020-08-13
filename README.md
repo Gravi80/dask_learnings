@@ -33,3 +33,6 @@ pip install pip-tools --index-url https://pypi.org/simple/
 pip-compile --no-emit-index-url --no-emit-trusted-host --output-file=requirements.txt requirements.in -vvv --index-url https://pypi.org/simple/
 pip install -r requirements.txt --index-url https://pypi.org/simple/
 ```
+
+###### References
+https://www.youtube.com/watch?v=v7famjsXdUY
